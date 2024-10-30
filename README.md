@@ -1,4 +1,4 @@
-# KilimoRiziki Decision Hub
+# Kilimo Riziki Project
 **By:**
  Flavine Ezra
 
